@@ -286,10 +286,7 @@ p {
 }
 
 .image-display__image {
-    background-image: url("./Practic-Kata-3.1.4/Background.jpg");
     width: 100%;
-    background-size: cover;
-    background-position: center;
     display: block;
     height: auto;
 }
