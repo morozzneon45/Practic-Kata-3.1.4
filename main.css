@@ -120,9 +120,9 @@ main {
 
   .image-display__image {
     margin-top: 50px;
-    width: 531 !important;
-    height: 307 !important;
-    max-width: 50%;
+    width: auto;
+    height: auto;
+    max-width: 70%;
   }
 
 }
