@@ -114,8 +114,11 @@ main {
   }
 
 .main__container--text {
-  width: 53%;
-  margin-right: 10px;
+  width: 47%;
+  margin-right: 30px;
+  font-size: 17px;
+  letter-spacing: 0.4px;
+  line-height: 25px;
 }
 
 .textarea {
@@ -127,7 +130,7 @@ main {
 
   .image-display__image {
     margin-top: 50px;
-    width: 47% !important;
+    width: 53% !important;
     height: auto;
   }
 
