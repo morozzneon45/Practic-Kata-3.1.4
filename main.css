@@ -286,6 +286,7 @@ p {
 }
 
 .image-display__image {
+    background-image: url("./background.jpg");
     width: 100%;
     display: block;
     height: auto;
