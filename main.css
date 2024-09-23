@@ -113,16 +113,22 @@ main {
     height: auto;
   }
 
+.main__container--text {
+  width: 53%;
+  margin-right: 10px;
+}
+
+.textarea {
+  width: auto;
+}
   .main__container--textarea-next {
-    width: 50%;
     margin-right: 20px;
   }
 
   .image-display__image {
     margin-top: 50px;
-    width: auto;
+    width: 47% !important;
     height: auto;
-    max-width: 70%;
   }
 
 }
